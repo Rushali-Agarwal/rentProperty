@@ -28,8 +28,3 @@
   9) Stripe
   
   
-
-
-
-# made at --- DEVJAM 2023 at MNNIT Prayagraj 
-# POV- Our Project was selected in TOP-5 .
